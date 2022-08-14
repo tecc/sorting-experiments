@@ -7,7 +7,7 @@ These are just some sorting algorithm experiments of mine.
 - Bubblesort
   (This is by someone else)
 - Bubblesort Plus
-  (Optimised bubblesort, came up with this one myself)
+  (Optimised bubblesort, came up with this one myself; however, it's not original in the sense that I invented the optimisation first)
 
 ## License
 
